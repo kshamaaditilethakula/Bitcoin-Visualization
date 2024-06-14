@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "4000:4000"
+    environment:
+      - NODE_ENV=production
+    depends_on:
+      - db
+
+  frontend:
+    build:
+      context: ./bitcoin-explorer
+    ports:
+      - "3000:80"
+    environment:
+      - NODE_ENV=production
+
+  bitcoin_ingestion:
+    build:
+      context: ./bitcoin_ingestion
+    depends_on:
+      - db
+    entrypoint: ./wait-for-it.sh db:5432 -- ./target/release/bitcoin_ingestion
+
+  db:
+    image: postgres:14
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: bit
+      POSTGRES_DB: bitcoin_explorer
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+
+volumes:
+  pgdata:
