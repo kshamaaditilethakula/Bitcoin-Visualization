@@ -1,0 +1,11 @@
+/Users/hemanthsaragadam/Desktop/info proj/bitcoin_ingestion/target/debug/deps/liburl-e162c0aa17ef9efe.rmeta: /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/lib.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/host.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/origin.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/parser.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/path_segments.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/slicing.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/quirks.rs
+
+/Users/hemanthsaragadam/Desktop/info proj/bitcoin_ingestion/target/debug/deps/url-e162c0aa17ef9efe.d: /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/lib.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/host.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/origin.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/parser.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/path_segments.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/slicing.rs /Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/quirks.rs
+
+/Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/lib.rs:
+/Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/host.rs:
+/Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/origin.rs:
+/Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/parser.rs:
+/Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/path_segments.rs:
+/Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/slicing.rs:
+/Users/hemanthsaragadam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/quirks.rs:
